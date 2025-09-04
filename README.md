@@ -9,10 +9,13 @@ we are studying github
 <br/>
 _underscore use to make text italic_
 <br/>
+
+
+**LANGUAGES**
 - pyhton
 - c++
 - c#
 <br/>
-1. python
-2. c++
-3. c#
+1. point1
+2. point2
+3. point3
