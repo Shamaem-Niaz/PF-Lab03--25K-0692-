@@ -4,7 +4,11 @@
 this is lab 03
 <br/>
 we are studying github
-<br>/
+<br/>
 **double asterik to make text bold**
 <br/>
 _underscore use to make text italic_
+<br/>
+- point1
+- point2
+- point3
